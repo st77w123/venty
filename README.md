@@ -1,1 +1,1 @@
-# venty
+venty-cli
